@@ -1,4 +1,9 @@
-# Marcos-cc.github.io
++++
+title = 'Test'
+date = 2023-12-27T21:27:52+08:00
+draft = false
+
++++
 
 ## 二分查找
 二分最关键的在于确定区间划分的形式，是要用[l, r]还是[l, R) 
